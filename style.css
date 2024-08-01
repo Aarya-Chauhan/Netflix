@@ -16,3 +16,7 @@ main .box{
     z-index: 2;
 
 }
+
+.nav{
+    background: transparent;
+}
