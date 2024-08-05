@@ -15,7 +15,7 @@
 .main .box{
     height: 80vh;
     width: 100%;
-    opacity: 0.44;
+    opacity: 0.6;
     background-color: black;
     z-index: 2;
     position:absolute;
@@ -23,12 +23,18 @@
 
 }
 nav{
-    background-color: red;
     display: flex;
     max-width: 80vw;
     margin: auto;
     justify-content: space-between;
     align-items: center;
     height: 62px;
+}
+
+nav .img{
+    width: 114px;
+    position:relative;
+    color: red;    
+    z-index: 10;
 }
 
