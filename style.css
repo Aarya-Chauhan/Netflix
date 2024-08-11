@@ -15,7 +15,7 @@
 .main .box{
     height: 80vh;
     width: 100%;
-    opacity: 0.6;
+    opacity: 0.66;
     background-color: black;
     z-index: 2;
     position:absolute;
